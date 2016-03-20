@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AudioFlasher</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="btn_play">PLAY</string>
+    <string name="btn_stop">STOP</string>
+    <string name="btn_pause">PAUSE</string>
+    <string name="btn_resume">RESUME</string>
+    <string name="player_prepare_fail">MediaPlayer PrePared Failed</string>
+
+</resources>
