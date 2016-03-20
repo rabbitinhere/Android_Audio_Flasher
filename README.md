@@ -8,4 +8,4 @@
 
 当前只能将声音转换成连续的明暗。
 
-![image](https://github.com/rabbitinhere/Android_Audio_Flasher/raw/master/preview.png)
+![image](https://github.com/rabbitinhere/Android_Audio_Flasher/raw/master/preview.jpeg)
